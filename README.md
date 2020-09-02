@@ -1,2 +1,1 @@
-# RandomImages_App
-React Native App
+# React Native tasks and small projects. 
