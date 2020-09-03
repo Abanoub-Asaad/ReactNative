@@ -17,9 +17,9 @@ class DisplayNum extends Component {
 
         return (
 
-            <View style={{ width: 200, height: 200, borderRadius: 100, backgroundColor: "#fca311", alignItems: "center", justifyContent: "center", marginVertical:10 }} >
+            <View style={{ width: 200, height: 200, borderRadius: 50, backgroundColor: "#fca311", alignItems: "center", justifyContent: "center", marginVertical:10 }} >
                 <Text style={{ fontSize: 48 }}>
-                    {this.props.count}
+                    {this.props.num}
                 </Text>
 
 
