@@ -37,7 +37,7 @@ function App() {
         renderItem={({ item, index }) => {
           return (
             <Card
-              task="Hi"//{item} 
+              task={item} 
 
               deleteTask={() => {
                 let task = [...tasks]
