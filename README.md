@@ -1,1 +1,1 @@
-# React Native tasks and small projects. 
+# React Native tasks and mini-projects. 
